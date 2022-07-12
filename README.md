@@ -3,7 +3,7 @@
 - 👀 I’m interested in android developer
 - 🌱 I’m currently learning ios developer
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me : +2130657901766
+- 📫 How to reach me : +213657901766
 
 <!---
 MMTmohammed/MMTmohammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
