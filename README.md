@@ -1,6 +1,6 @@
 
 # 💫 About Me: HI, I AM A ANDROID DEVELOPER DEVELOPER 
-👯 I’m looking to collaborate on open source web projects; <br>🌱 I’m currently learning more about AWS and DevOps; <br>💬  Ask me about anything, I am happy to help; <br>⚡ Fun fact AI will replace us;
+👯 I’m looking to collaborate on open source app projects; <br>🌱 I’m currently learning more about data science; <br>💬  Ask me about anything, I am happy to help; 
 
 
 
@@ -27,7 +27,7 @@
 ![docker](https://img.shields.io/badge/-docker-000?&logo=docker)
 ![postman](https://img.shields.io/badge/-postman-000?&logo=postman)
 ![adobe xd](https://img.shields.io/badge/-adobexd-000?&logo=adobexd)
-![room database](https://img.shields.io/badge/-roomdatabase-000?&logo=roomdatabase)
+
 
 
 
