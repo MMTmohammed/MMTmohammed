@@ -25,6 +25,8 @@
 ![firebase](https://img.shields.io/badge/-firebase-000?&logo=firebase)
 ![numpy](https://img.shields.io/badge/-numpy-000?&logo=numpy)
 ![pandas](https://img.shields.io/badge/-pandas-000?&logo=pandas)
+![docker](https://img.shields.io/badge/-docker-000?&logo=docker)
+![postman](https://img.shields.io/badge/-postman-000?&logo=postman)
 
 
 
