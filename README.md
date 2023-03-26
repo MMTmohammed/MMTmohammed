@@ -26,7 +26,7 @@
 ![pandas](https://img.shields.io/badge/-pandas-000?&logo=pandas)
 ![docker](https://img.shields.io/badge/-docker-000?&logo=docker)
 ![postman](https://img.shields.io/badge/-postman-000?&logo=postman)
-![adobe xd](https://img.shields.io/badge/-adobe xd-000?&logo=adobe xd)
+![adobexd](https://img.shields.io/badge/-adobexd-000?&logo=adobexd)
 
 
 
