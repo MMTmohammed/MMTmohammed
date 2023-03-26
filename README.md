@@ -1,6 +1,6 @@
-[![](https://raw.githubusercontent.com/adamalston/hamo/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+
 # 💫 About Me: HI, I AM A ANDROID DEVELOPER DEVELOPER 
-👯 I’m looking to collaborate on open source web projects<br>🌱 I’m currently learning more about AWS and DevOps <br>💬 Ask me about python and javascript <br>⚡ Fun fact AI will replace us 
+👯 I’m looking to collaborate on open source web projects<br>🌱 I’m currently learning more about AWS and DevOps <br>💬 Ask me about python and kotlin <br>⚡ Fun fact AI will replace us 
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -13,6 +13,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 
 
 
 
