@@ -23,6 +23,8 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![figma](https://img.shields.io/badge/-figma-000?&logo=figma)
 ![firebase](https://img.shields.io/badge/-firebase-000?&logo=firebase)
+![numpy](https://img.shields.io/badge/-numpy-000?&logo=numpy)
+![pandas](https://img.shields.io/badge/-pandas-000?&logo=pandas)
 
 
 
