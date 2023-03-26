@@ -18,7 +18,6 @@
 ![kotlin](https://img.shields.io/badge/-kotlin-000?&logo=kotlin)
 
 ### Technologies
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![figma](https://img.shields.io/badge/-figma-000?&logo=figma)
@@ -27,6 +26,7 @@
 ![pandas](https://img.shields.io/badge/-pandas-000?&logo=pandas)
 ![docker](https://img.shields.io/badge/-docker-000?&logo=docker)
 ![postman](https://img.shields.io/badge/-postman-000?&logo=postman)
+![adobe xd](https://img.shields.io/badge/-adobe xd-000?&logo=adobe xd)
 
 
 
