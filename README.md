@@ -1,5 +1,5 @@
 
-# 💫 About Me: HI, I AM A ANDROID DEVELOPER DEVELOPER 
+# 💫 About Me: HI, I AM A Native App Developer
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MMTmohammed)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-tayeb-mimouni-59ba80236/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_t.med.1/)
