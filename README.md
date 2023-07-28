@@ -9,7 +9,7 @@
 
 
 ### Languages
-[![](https://skillicons.dev/icons?i=c,cpp,java,js,kotlin,ts,sqlitepy&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,java,js,kotlin,ts,py,sqlitepy&perline=10)](https://skillicons.dev)
 
 
 
