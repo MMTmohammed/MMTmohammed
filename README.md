@@ -9,14 +9,12 @@
 
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![kotlin](https://img.shields.io/badge/-kotlin-000?&logo=kotlin)
 
-[![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,c,cpp,docker,figma,firebase,git,gradle,ai,java,js,kotlin,ktor,linux,ts,reactivex,py,pytorch,postman,node.js,mongodb,&perline=10)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=ae,,c,cpp,java,js,kotlin,ts,sqlitepy&perline=10)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,c,cpp,docker,figma,firebase,git,gradle,ai,java,js,kotlin,ktor,linux,ts,reactivex,py,pytorch,postman,node.js,mongodb,sqlite,&perline=10)](https://skillicons.dev)
 
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
