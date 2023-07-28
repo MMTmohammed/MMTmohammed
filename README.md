@@ -11,7 +11,7 @@
 ### Languages
 
 
-[![](https://skillicons.dev/icons?i=ae,,c,cpp,java,js,kotlin,ts,sqlitepy&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,java,js,kotlin,ts,sqlitepy&perline=10)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,c,cpp,docker,figma,firebase,git,gradle,ai,java,js,kotlin,ktor,linux,ts,reactivex,py,pytorch,postman,node.js,mongodb,sqlite,&perline=10)](https://skillicons.dev)
