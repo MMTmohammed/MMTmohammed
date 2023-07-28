@@ -16,7 +16,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![kotlin](https://img.shields.io/badge/-kotlin-000?&logo=kotlin)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ktor)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,c,cpp,docker,figma,firebase&perline=3)](https://skillicons.dev)
 
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
