@@ -15,6 +15,7 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![kotlin](https://img.shields.io/badge/-kotlin-000?&logo=kotlin)
+(file:///home/t-mohammed/Downloads/pandas.svg)
 
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
