@@ -15,7 +15,7 @@
 
 
 ### Technologies
-[![](https://skillicons.dev/icons?i=ae,androidstudio,docker,figma,firebase,git,gradle,ai,ktor,linux,reactivex,pytorch,postman,node.js,mongodb,&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ae,androidstudio,docker,figma,firebase,git,gradle,ai,ktor,linux,reactivex,pytorch,postman,nodejs,mongodb,&perline=10)](https://skillicons.dev)
 
 
 
