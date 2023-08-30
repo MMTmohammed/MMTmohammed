@@ -1,5 +1,7 @@
 
-# 💫 ![dd](Home/Downloads/icons8-android-os-64.png)  HI, I AM A Android App Developer | KMM
+![](github-pic-v1.png)
+
+#  **Hey, I'm a Android App Developer | KMM**
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mimouni-mohammed-tayeb-59ba80236/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_t.med.1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mimounimohammedtayeb@gmail.com)
