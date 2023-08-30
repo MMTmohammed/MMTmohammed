@@ -3,7 +3,7 @@
 
 #  **Hey, I'm a Android App Developer | KMM**
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mimouni-mohammed-tayeb-59ba80236/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_t.med.1/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_muhamed.ty/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mimounimohammedtayeb@gmail.com)
 
 👯 I'm looking forward to merging data science with mobile app ; <br>🌱 I’m currently learning more about data science; <br>💬  Ask me about anything, I am happy to help; 
