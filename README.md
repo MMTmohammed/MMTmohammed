@@ -1,6 +1,3 @@
-
-![](github-pic-v3.png)
-
 #  **Hey, I'm a Native Android App Developer | KMM**
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mimouni-mohammed-tayeb-59ba80236/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_muhamed.ty/)
